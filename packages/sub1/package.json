@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"This is tested on sub 1\"",
+    "test": "echo \"This is tested on sub 1 another change\"",
     "more": "echo askdj"
   },
   "author": "",
